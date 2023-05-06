@@ -20,6 +20,7 @@
   "dependencies": {
     "@types/react": "^16.8.7",
     "@types/react-dom": "^16.8.2",
+    "bootstrap": "^5.2.3",
     "onchange": "^5.2.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",

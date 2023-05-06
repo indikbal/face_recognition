@@ -21,7 +21,7 @@ export default class BasicComponent extends React.Component<{}> {
             </div>
             <div>
               <img className="faceid" src="../images/face-id.png" />
-              <p id="status">Initializing...</p>
+              <p id="status">Initializing....</p>
             </div>
 
             <button

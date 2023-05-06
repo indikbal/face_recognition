@@ -29,7 +29,7 @@ export default class BasicComponent extends React.Component<{}> {
               className="big-button"
               onClick={() => this.onLivenessCheckPressed()}
             >
-              3D Liveness Check
+              Start Liveness Check
             </button>
           </div>
         </div>
